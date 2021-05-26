@@ -330,14 +330,22 @@ This field is not required, and there can be multiple values. If the _genre_ is 
 |-|-|
 | Digitized film | Amateur films |
 | Toronto Telegram photo | Photographs, Documentary photographs |
-| 
+ 
 # Resource Type
 
-This field is not required, and there can be only one value. If the _resource type_ is unknown, leave the field blank.
+  This field is not required, and there can be only one value. If the _resource type_ is unknown, leave the field blank.
 
 ## General Information
 
-* https://github.com/yorkulibraries/yudl8_defaults/blob/8.x-1.x/migrate/tags.csv
+* Select a revelant _resource type_ from the dropdown
+
+## Examples
+
+| | |
+|-|-|
+| Video recording | Movie Image |
+| Monograph | Text |
+| Image of three-dimensional object | Physical Object |
 
 # Physical Form
 
@@ -345,7 +353,14 @@ This field is not required, and there can be only one value. If the _physical fo
 
 ## General Information
 
-* https://github.com/yorkulibraries/yudl8_defaults/blob/8.x-1.x/migrate/physical_form.csv
+* Enter any relevant term from the [Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)
+
+## Examples
+
+| | |
+|-|-|
+| Digitized home video | videocassette |
+| Digitized Toronto Telegram negative | photonegative |
 
 # Extent
 
@@ -434,5 +449,3 @@ This field is not required, and there can be only one value. If the _hdl_ is unk
 | | |
 |-|-|
 | HDL | http://hdl.handle.net/10315/21361 |
-
-
