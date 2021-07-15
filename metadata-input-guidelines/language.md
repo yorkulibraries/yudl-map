@@ -20,9 +20,9 @@ Language can be determined by examining the item:
 | Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li></ul> |
 | Computer files | <ul><li>title page/screen</li><li>text</li></ul> |
 
-# How the language fields works in the metadata form
+# How the language field works in the metadata form
 
-* Autocomplete
+* Autocomplete field
 * Repeatable
 * Required
 
