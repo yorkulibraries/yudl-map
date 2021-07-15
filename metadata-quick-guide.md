@@ -19,6 +19,9 @@ This field is required, and there can only be one value.
 |-|-|
 | Monograph | 1812 Red River 1912 : Lord Selkirk's centennial |
 | Photograph | Development of campus buildings : Natural Science Library [Steacie Library] project no. 354 York University |
+| Audio recording | Interviews for "Voices from the Odeyak" |
+| Video recording | Highway 10 episode 65A |
+| Document | Roadmap to a Canadian Just Transition Act: A path to a clean and inclusive economy |
 
 # Alternative Title
 
@@ -37,7 +40,7 @@ This field is optional, and there can be mulitple values. If there is no _altern
 | Map with a listed alternative title | Holand Marsh, part of West Gwillimbury and King. |
 | Monograph with multiple volumes | A collection of theological tracts (Volume 4) |
 
-# Creators and Contributors (linked agents)
+# Creators and Contributors
 
 This field is optional, and there can be multiple values and relations. If the creator is unknown, leave it blank.
 
@@ -54,34 +57,23 @@ This field is optional, and there can be multiple values and relations. If the c
 | Photograph | Photographer: Deborah Barndt |
 | Film | Creator: Hector J. Lemieux, Creator: Mary Axten, Producer: John Churchhill, Director: Hector J. Lemieux |
 | Musical recording | Composer: Piccinini, Marina, Performer: Kortgaard, Robert, Performer: Piccinini, Marina |
+| Monograph | Author: James Patrick Howley |
 
-# Date
+# Place Published
 
-This field is optional, and there can be mulitple values. If there is no _date_, leave it blank.
+This field is not required, and there can be multiple values. If the _place published_ is unknown, leave the field blank.
 
 ## General Information
 
-* Dates must be in the [Extended Date/Time Format](https://www.loc.gov/standards/datetime/) (EDTF)
-* Dates use the form YYYY-MM-DD including a year and any additional parts that are known (i.e., YYYY or YYYY-MM or YYYY-MM-DD).
-* For "circa" dates, add a tilde at the end: YYYY-MM-DD~
+* The geographic location of where an object was published (city, state, country)
+* Enter all relevant locations
 
-# Date (issued)
+## Examples
 
-This field is optional, and there can be mulitple values. If there is no _date issued_, leave it blank.
-
-TODO: Why use this field instead of or with date?
-
-# Date (created)
-
-This field is optional, and there can be mulitple values. If there is no _date created_, leave it blank.
-
-TODO: Why use this field instead of or with date?
-
-# Date (modified)
-
-This field is optional, and there can be mulitple values. If there is no _date modified_, leave it blank.
-
-TODO: Why use this field instead of or with date?
+| | |
+|-|-|
+| Monograph published in multiple locations | London (U.K.), Boston |
+| Report published in multiple jurisdictions | Canada, United States of America, Mexico |
 
 # Description
 
@@ -138,6 +130,114 @@ This field is optional, and there can be mulitple values. If there is no _note_,
 | Title | Title: This is some note. |
 | Organization | Organization: This is a note |
 
+# Dates
+
+## Date
+
+This field is optional, and there can be mulitple values. If there is no _date_, leave it blank.
+
+### General Information
+
+* Dates must be in the [Extended Date/Time Format](https://www.loc.gov/standards/datetime/) (EDTF)
+* Dates use the form YYYY-MM-DD including a year and any additional parts that are known (i.e., YYYY or YYYY-MM or YYYY-MM-DD).
+* For "circa" dates, add a tilde at the end: YYYY-MM-DD~
+* If a date speciically pertains to a date created, issued, or modified, those fields should be used.
+
+## Date (issued)
+
+This field is optional, and there can be mulitple values. If there is no _date issued_, leave it blank.
+
+### General Information
+
+* Dates must be in the [Extended Date/Time Format](https://www.loc.gov/standards/datetime/) (EDTF)
+* Dates use the form YYYY-MM-DD including a year and any additional parts that are known (i.e., YYYY or YYYY-MM or YYYY-MM-DD).
+* Date issued pertains to the date(s) a given object was published or issued.
+
+## Date (created)
+
+This field is optional, and there can be mulitple values. If there is no _date created_, leave it blank.
+
+### General Information
+
+* Dates must be in the [Extended Date/Time Format](https://www.loc.gov/standards/datetime/) (EDTF)
+* Dates use the form YYYY-MM-DD including a year and any additional parts that are known (i.e., YYYY or YYYY-MM or YYYY-MM-DD).
+* Date created pertains to the date a given object was created.
+
+## Date (modified)
+
+This field is optional, and there can be mulitple values. If there is no _date modified_, leave it blank.
+
+### General Information
+
+* Dates must be in the [Extended Date/Time Format](https://www.loc.gov/standards/datetime/) (EDTF)
+* Dates use the form YYYY-MM-DD including a year and any additional parts that are known (i.e., YYYY or YYYY-MM or YYYY-MM-DD).
+* Date modified pertains to the date(s) a given object was modified after its initial creation.
+
+## Examples
+
+| | |
+|-|-|
+| Report with month/year | 2021-04 |
+| Monograph with year | 1856 |
+| Photograph with known decade | 194X |
+| Map with uncertain date | 1974-09-05% |
+| Map with circa date | 1750~ |
+
+# Resource Type
+
+  This field is not required, and there can be only one value. If the _resource type_ is unknown, leave the field blank.
+
+## General Information
+
+* Select a revelant _resource type_ from the dropdown
+
+## Examples
+
+| | |
+|-|-|
+| Video recording | Movie Image |
+| Monograph | Text |
+| Image of three-dimensional object | Physical Object |
+
+# Genre
+
+This field is not required, and there can be multiple values. If the _genre_ is unknown, leave the field blank.
+
+## General Information
+
+* Choose the most appropriate genre heading(s) for the object being described from [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html) (LCGFT)
+
+## Examples
+
+| | |
+|-|-|
+| Digitized film | Amateur films |
+| Toronto Telegram photo | Photographs, Documentary photographs |
+
+# Extent
+
+This field is not required, and there can be multiple values. If the _extent_ is unknown, leave the field blank.
+
+## General Information
+
+* Whenever possible, include a physical description using the format: extent : physical details ; dimensions.
+* Specify units for dimensions (cm., in., etc.) and always round up to the next full centimeter (the only exceptions are "standard sized" photographs, A/V recordings, and born-digital materials).
+* If an envelope has different negative sizes, always list or measure the largest format followed by the phrase "and smaller".
+* If an envelope with photographic material of multiple dimensions and colour negs and prints mixed in as well, list this.
+
+## Examples
+
+| Object | Extent |
+|--------|--------|
+| Monograph | 30 p. ; 28 cm. |
+| Three-dimensional object | 1 button: colour; 5.5 cm |
+| Photograph Negative | 1 photograph : b&w negative ; 35 mm |
+| Envelope with multiple material | 12 photographs : b&w negative; 12 x 9 cm and smaller + 1 envelope : 11 x 14 cm |
+| Map | 1 map : black & white ; 63 x 85 cm, on sheet 66 x 88 cm |
+| Letter | 2 pages |
+| Audio recording | 1 audio video cassette : 1 hrs. 25 min. : PCM (Pulse-code modulation) recorded audio. |
+| Video recording | 1 video tape : (ca. 50 min) : 1 inch Type C |
+
 # Language
 
 This field is required, and there can be multiple values. If the language is unknown, enter _No linguistic content_.
@@ -156,59 +256,208 @@ This field is required, and there can be multiple values. If the language is unk
 | An audio recording in Persian | Persian |
 | A home video recording in multiple languages | Urdu, English, French |
 
-# Subject (topic)
+# Physical Form
 
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
-
-## General Information
-
-* Subject headings and subject keywords should describe what the item is 'about' and be useful forfinding the item.
-* Subjects from controlled vocabularies should be formatted properly
-
-# Subject (temporal)
-
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
+This field is not required, and there can be only one value. If the _physical form_ is unknown, leave the field blank.
 
 ## General Information
 
-# Subject (geographic)
-
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
-
-# Keyword (subject topic)
-
-This field is optional, and there can be mulitple values. If there is no _keyword_, leave it blank.
-
-## General Information
-
-* Keywords should be lowercase and plural (except for proper names)
-
-# Rights
-
-This field is required, and there can be multiple values.
-
-## General Information
-
-* Select at least one rights statement from Creative Commons, RightsStatements.org, or a Traditional Knowledge label
+* Enter any relevant term from the [Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)
 
 ## Examples
 
 | | |
 |-|-|
-| Copyrighted image with a Creative Commons License | IN COPYRIGHT, Attribution 4.0 International (CC BY 4.0) |
-| Copyrighted video with a Traditional Knowledge Label | IN COPYRIGHT, TK Culturally Sensitive (TK CS) |
-| Public domain monograph | Public Domain Mark 1.0 |
+| Digitized home video | videocassette |
+| Digitized Toronto Telegram negative | photonegative |
 
-# Rights Holder
+# Physical Location
 
-This field is not required, and there can be multiple values. If the _rights holder_ is unknown, leave the field blank.
+This field is not required, and there can be only one value. If the _physical location_ is unknown, leave the field blank.
 
 ## General Information
 
-* Only specific individuals or organizations should be included as rights holders
-* Include as many rights holders as you need to, in order of importance (or the order that they appear in on the item)
+* The number of the box and file that contains the object.
 
-# Coordinates
+## Examples
+
+| | |
+|-|-|
+| | 2007-054 / 025 (17) |
+
+# Edition
+
+This field is not required, and there can be multiple values. If there are no _editions_ of the object or the _edition_ is unknown, leave the field blank.
+
+## General Information
+
+* Enter the edition or version number as listed on the object
+
+## Examples
+
+| | |
+|-|-|
+| Monograph | 4th edition |
+| Report | 2021 edition |
+| Software | Version 3.2.1 |
+
+# Relation
+
+This field is not required, and there can be multiple values. If the object does not have an explicit _relation_ other objects, leave the field blank.
+
+## General Information
+
+* Enter a _nid_ (node identifier) each object this object has a _relation_ to
+
+## Examples
+
+# Part of
+
+This field is not required, and there can be multiple values. If the object is not _part of_ other objects, leave the field blank.
+
+## General Information
+
+* Enter a _nid_ (node identifier) each object this object is _part of_
+
+## Examples
+
+| | |
+|-|-|
+| Telegram negative part of an assignment | 45321 |
+
+# Identifiers
+
+## Identifier
+
+This field is required, and there can be multiple values.
+
+### General Information
+
+* Include as many identifiers as are relevant (they may be written on the item or come from a catalog record)
+* If the identifiers are a _doi_, _lccn_, _issn_, _OCLC number_, or _hdl_, use the appropriate field
+
+### Examples
+
+| | |
+|-|-|
+| ASC Number | ASC52071 |
+| ASC item number | 1999-008 / 083 (07) (4) |
+| Catalogue identifier | a2364844 |
+
+## DOI
+
+This field is not required, and there can be only one value. If the _doi_ is unknown or there is no _doi_, leave the field blank.
+
+### Examples
+
+| | |
+|-|-|
+| doi | 10.5683/SP/ZEL1Q6 |
+
+## LCCN
+
+This field is not required, and there can be only one value. If the _lccn_ is unknown or there is no _lccn_, leave the field blank.
+
+### Examples
+
+| | |
+|-|-|
+| LCCN | 0706984.01 |
+
+## ISSN
+
+This field is not required, and there can be only one value. If the _issn_ is unknown or there is no _issn_, leave the field blank.
+
+### Examples
+
+| | |
+|-|-|
+| ISSN | 0703-9255 |
+
+## OCLC number
+
+This field is not required, and there can be only one value. If the _OCLC number_ is unknown or there is no _OCLC number_, leave the field blank.
+
+### Examples
+
+| | |
+|-|-|
+| OCLC | ocm01506489 |
+
+## HDL
+
+This field is not required, and there can be only one value. If the _hdl_ is unknown or there is no _hdl_, leave the field blank.
+
+### Examples
+
+| | |
+|-|-|
+| HDL | http://hdl.handle.net/10315/21361 |
+
+# Subjects
+
+## Topic
+
+This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
+
+### General Information
+
+* Subject headings and subject keywords should describe what the item is 'about' and be useful forfinding the item.
+* Subjects from controlled vocabularies should be formatted properly.
+* Individuals can be included as subjects.
+
+## Examples
+
+
+## Temporal
+
+This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
+
+### General Information
+
+## Geographic
+
+This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
+
+## Keyword
+
+This field is optional, and there can be mulitple values. If there is no _keyword_, leave it blank.
+
+### General Information
+
+* Keywords should be lowercase and plural (except for proper names)
+
+# Geographic Information
+
+## Continent
+
+This field is not required, and there can be only one value. If the _continent_ is unknown, leave the field blank.
+
+## Country
+
+This field is not required, and there can be only one value. If the _country_ is unknown, leave the field blank.
+
+## Province
+
+This field is not required, and there can be only one value. If the _province_ is unknown, leave the field blank.
+
+## Region
+
+This field is not required, and there can be only one value. If the _region_ is unknown, leave the field blank.
+
+## County
+
+This field is not required, and there can be only one value. If the _county_ is unknown, leave the field blank.
+
+## City
+
+This field is not required, and there can be only one value. If the _city_ is unknown, leave the field blank.
+
+## City Section
+
+This field is not required, and there can be only one value. If the _city_ is unknown, leave the field blank.
+
+## Coordinates
 
 This field is not required, and there can be multiple values. If the _coordinates_ are unknown, leave the field blank.
 
@@ -226,226 +475,38 @@ This field is not required, and there can be multiple values. If the _coordinate
 | sexagesimal latitude | 51° 28' 43.644" |
 | sexagesimal longitde | -0° 38.4372" |
 
-# Part of
-
-This field is not required, and there can be multiple values. If the object is not _part of_ other objects, leave the field blank.
-
-## General Information
-
-* Enter a _nid_ (node identifier) each object this object is _part of_
-
-## Examples
-
-| | |
-|-|-|
-| Telegram negative part of an assignment | 45321 |
-
-# Relation
-
-This field is not required, and there can be multiple values. If the object does not have an explicit _relation_ other objects, leave the field blank.
-
-## General Information
-
-* Enter a _nid_ (node identifier) each object this object has a _relation_ to
-
-## Examples
-
-# Edition
-
-This field is not required, and there can be multiple values. If there are no _editions_ of the object or the _edition_ is unknown, leave the field blank.
-
-## General Information
-
-## Examples
-
-# City
-
-This field is not required, and there can be only one value. If the _city_ is unknown, leave the field blank.
-
-# City Section
-
-This field is not required, and there can be only one value. If the _city_ is unknown, leave the field blank.
-
-# County
-
-This field is not required, and there can be only one value. If the _county_ is unknown, leave the field blank.
-
-# Region
-
-This field is not required, and there can be only one value. If the _region_ is unknown, leave the field blank.
-
-# Province
-
-This field is not required, and there can be only one value. If the _province_ is unknown, leave the field blank.
-
-# Country
-
-This field is not required, and there can be only one value. If the _country_ is unknown, leave the field blank.
-
-# Continent
-
-This field is not required, and there can be only one value. If the _continent_ is unknown, leave the field blank.
-
-# Physical Location
-
-This field is not required, and there can be only one value. If the _physical location_ is unknown, leave the field blank.
-
-## General Information
-
-* The number of the box and file that contains the object.
-
-## Examples
-
-| | |
-|-|-|
-| | 2007-054 / 025 (17) |
-
-# Place Published
-
-This field is not required, and there can be multiple values. If the _place published_ is unknown, leave the field blank.
-
-## General Information
-
-* The geographic location of where an object was published (city, state, country)
-* Enter all relevant locations
-
-## Examples
-
-| | |
-|-|-|
-| Monograph published in multiple locations | London (U.K.), Boston |
-| Report published in multiple jurisdictions | Canada, United States of America, Mexico |
-
-# Genre
-
-This field is not required, and there can be multiple values. If the _genre_ is unknown, leave the field blank.
-
-## General Information
-
-* Choose the most appropriate genre heading(s) for the object being described from [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html) (LCGFT)
-
-## Examples
-
-| | |
-|-|-|
-| Digitized film | Amateur films |
-| Toronto Telegram photo | Photographs, Documentary photographs |
- 
-# Resource Type
-
-  This field is not required, and there can be only one value. If the _resource type_ is unknown, leave the field blank.
-
-## General Information
-
-* Select a revelant _resource type_ from the dropdown
-
-## Examples
-
-| | |
-|-|-|
-| Video recording | Movie Image |
-| Monograph | Text |
-| Image of three-dimensional object | Physical Object |
-
-# Physical Form
-
-This field is not required, and there can be only one value. If the _physical form_ is unknown, leave the field blank.
-
-## General Information
-
-* Enter any relevant term from the [Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)
-
-## Examples
-
-| | |
-|-|-|
-| Digitized home video | videocassette |
-| Digitized Toronto Telegram negative | photonegative |
-
-# Extent
-
-This field is not required, and there can be multiple values. If the _extent_ is unknown, leave the field blank.
-
-## General Information
-
-* Whenever possible, include a physical description using the format: extent : physical details ; dimensions
-* Specify units for dimensions (cm., in., etc.) and always round up to the next full centimeter (the only exceptions are "standard sized" photographs, A/V recordings, and born-digital materials)
-
-## Examples
-
-| Object | Extent |
-|--------|--------|
-| Monograph | 30 p. ; 28 cm. |
-| Three-dimensional object | 1 button: colour; 5.5 cm |
-| Photograph Negative | 1 photograph : b&w negative ; 35 mm. |
-| Map | 1 map : black & white ; 63 x 85 cm, on sheet 66 x 88 cm |
-| Letter | 2 pages |
-| Audio recording | 1 audio video cassette : 1 hrs. 25 min. : PCM (Pulse-code modulation) recorded audio. |
-| Video recording | 1 video tape : (ca. 50 min) : 1 inch Type C |
-
-# Identifier
+# Rights
 
 This field is required, and there can be multiple values.
 
 ## General Information
 
-* Include as many identifiers as are relevant (they may be written on the item or come from a catalog record)
-* If the identifiers are a _doi_, _lccn_, _issn_, _OCLC number_, or _hdl_, use the appropriate field
+* Select at least one rights statement from Creative Commons, RightsStatements.org, or a Traditional Knowledge label.
+* Any Toronto Telegram photographs taken before 1949 are PUBLIC DOMAIN.
+* Any photographs taken by Toronto Telegram staff photographers between 1949-1962 are PUBLIC DOMAIN **if** the photographer was an employee of the Toronto Telegram **and** was **not** a freelance photographer.
+* Any photographs taken by Toronto Telegram staff photographers between 1962-1971 are possibly under copyright by York University. The term of copyright for images for this category is determined by the life of the photographer plus 50 years. Therefore, the photographs of Albert Van (1881-1964) that he took as a staff photographer for the Telegram are now in the public domain.
 
 ## Examples
 
 | | |
 |-|-|
-| ASC Number | ASC52071 |
-| ASC item number | 1999-008 / 083 (07) (4) |
-| Catalogue identifier | a2364844 |
+| Copyrighted image with a Creative Commons License | IN COPYRIGHT, Attribution 4.0 International (CC BY 4.0) |
+| Copyrighted video with a Traditional Knowledge Label | IN COPYRIGHT, TK Culturally Sensitive (TK CS) |
+| Copyrighted image | IN COPYRIGHT |
+| Public domain monograph | Public Domain Mark 1.0 |
 
-# DOI
+# Rights Holder
 
-This field is not required, and there can be only one value. If the _doi_ is unknown or there is no _doi_, leave the field blank.
+This field is not required, and there can be multiple values. If the _rights holder_ is unknown, leave the field blank.
 
-## Examples
+## General Information
 
-| | |
-|-|-|
-| doi | 10.5683/SP/ZEL1Q6 |
-
-# LCCN
-
-This field is not required, and there can be only one value. If the _lccn_ is unknown or there is no _lccn_, leave the field blank.
+* Only specific individuals or organizations should be included as rights holders
+* Include as many rights holders as you need to, in order of importance (or the order that they appear in on the item)
 
 ## Examples
 
 | | |
 |-|-|
-| LCCN | 0706984.01 |
-
-# ISSN
-
-This field is not required, and there can be only one value. If the _issn_ is unknown or there is no _issn_, leave the field blank.
-
-## Examples
-
-| | |
-|-|-|
-| ISSN | 0703-9255 |
-
-# OCLC number
-
-This field is not required, and there can be only one value. If the _OCLC number_ is unknown or there is no _OCLC number_, leave the field blank.
-
-## Examples
-
-| | |
-|-|-|
-| OCLC | ocm01506489 |
-
-# HDL
-
-This field is not required, and there can be only one value. If the _hdl_ is unknown or there is no _hdl_, leave the field blank.
-
-## Examples
-
-| | |
-|-|-|
-| HDL | http://hdl.handle.net/10315/21361 |
+| Photographer | Deborah Barndt |
+| Corporate ownership | York University |
