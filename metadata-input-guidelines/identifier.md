@@ -11,7 +11,7 @@ An unambiguous reference to the object  within a given context, which can be a n
 | Item Type | Information Sources |
 | --------- | ------------------- |
 | Text | <ul><li>the title page</li><li>a documentation page</li><li>the cover</li><li>a monogrpah's catalogue record</li></ul> |
-| Toronto Telegram | <ul><li>ASC numbers written on the mylar slip</li><li>annotations on the envelope</li><li>Y.U.A. number on the back of a print</li></ul> |
+| Toronto Telegram | <ul><li>ASC numbers written on the mylar slip</li><li>annotations on the envelope</li><li>Y.U.A. number on the back of a print</li><li>accompanying or supplementary material</li></ul> |
 | All other item types | <ul><li>a catalogue record</li><li>an ASC number</li><li>an OCLC record</li><li>local accession records</li><li>the physical item</li><li>accompanying or supplementary material</li></ul> |
 
 # How the identifier fields work in the metadata form
