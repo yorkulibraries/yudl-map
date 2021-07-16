@@ -49,7 +49,7 @@ An unambiguous reference to the object  within a given context, which can be a n
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| ASC number | <ul><li>ASC 1234<li></ul> |
+| ASC number | <ul><li>ASC 1234</li></ul> |
 | Catalogue record | <ul><li>TODO</li></ul> |
 | DOI | <ul><li>https://doi.org/10.1007/s42803-020-00029-6</li></ul> |
 | LCCN | <ul><li>16004111</li></ul> |
