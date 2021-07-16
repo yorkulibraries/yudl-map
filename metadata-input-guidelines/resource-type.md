@@ -31,4 +31,4 @@ The nature, category, or type of the primary content of the object.
 
 # Acknowledgments
 
-This guide was inspired by, and adapted from [UNT's Metadata Input Guidelines for Note](https://library.unt.edu/digital-projects-unit/metadata/fields/note).
+This guide was inspired by, and adapted from [UNT's Metadata Input Guidelines for Resource Type](https://library.unt.edu/digital-projects-unit/metadata/fields/resource-type).

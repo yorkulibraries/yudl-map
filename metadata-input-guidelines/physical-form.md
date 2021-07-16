@@ -32,4 +32,4 @@ The carrier or media category of an object.
 
 # Acknowledgments
 
-This guide was inspired by, and adapted from [UNT's Metadata Input Guidelines for Note](https://library.unt.edu/digital-projects-unit/metadata/fields/note).
+This guide was inspired by, and adapted from [UNT's Metadata Input Guidelines for Resource Type](https://library.unt.edu/digital-projects-unit/metadata/fields/resource-type).

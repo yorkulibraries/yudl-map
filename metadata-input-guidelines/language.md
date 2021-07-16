@@ -15,7 +15,7 @@ Language can be determined by examining the item:
 | Text | <ul><li>title page</li><li>words of the text</li></ul> |
 | Images | <ul><li>caption</li><li>visible words within the image (e.g., a sign in a photograph)</li><li>text written on the front or back of a photo or image</li></ul> |
 | Maps | <ul><li>caption or legend</li><li>place/physical feature labels</li></ul> |
-| Music scores | <ul><li>title</li><li>lyrics</li> |
+| Music scores | <ul><li>title</li><li>lyrics</li></ul> |
 | Videos | <ul><li>title screen(s)</li><li>label on disc</li><li>container cover</li></ul> |
 | Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li></ul> |
 | Computer files | <ul><li>title page/screen</li><li>text</li></ul> |
