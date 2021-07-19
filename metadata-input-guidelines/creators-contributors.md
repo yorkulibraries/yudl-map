@@ -44,6 +44,7 @@ Creators include any person, company, organization that was centrally involved i
 
 # Resources
 
+* Policy on Creating Person, Family, or Corporate Body Vocabulary Values
 * Quick-Start Metadata Guide
 * Input Guidelines for Descriptive Metadata
 * Metadata Home
