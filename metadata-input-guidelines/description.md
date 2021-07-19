@@ -17,13 +17,13 @@ For any item type, information that goes into the description field can come fro
 * examining or reading the text of the item (e.g., inconsistent page numbers)
 * supplementary or accompanying information
 
-# How the note field work in the metadata form
+# How the description field work in the metadata form
 
 * Text area
 * Not Repeatable
 * Not required
 
-# How should the identifier be filled in?
+# How should the description be filled in?
 
 * Describe the subject matter of the item
 * Use complete sentences with proper grammar and punctuation
