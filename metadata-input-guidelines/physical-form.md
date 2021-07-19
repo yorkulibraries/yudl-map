@@ -1,12 +1,12 @@
 # Element Name
 
-[physical form](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/type)
+[physical form](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/format)
 
 # Definition
 
 The carrier or media category of an object.
 
-# How the note field work in the metadata form
+# How the physical form field work in the metadata form
 
 * Autocomplete text field
 * Repeatable
@@ -14,7 +14,7 @@ The carrier or media category of an object.
 
 # If it is difficult to determine the resource type:
 
-* Consult the categories in the Library of Congress "[Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)"
+* Consult the categories in the Library of Congress "[Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)."
 * Consider whether it fits one of these scenarios:
   * Page images of textual items should be entered as "Text" not "Image"
   * A series of negatives should be entered as "nonprojected graphic, photonegative"
@@ -22,7 +22,7 @@ The carrier or media category of an object.
 * A page with both text and images should be entered based on which portion is most dominant or important, i.e.,
   * Does it seem like "text" with accompanying images(s) – e.g., photos or illustrations in a letter or printed page?
   * Does it seem like "photograph(s)" or "illustrations" with inscriptions and accompanying text?
-* Consider whether someone would expect to find the item if they limit their search to one particular type
+* Consider whether someone would expect to find the item if they limit their search to one particular type.
 
 # Resources
 
