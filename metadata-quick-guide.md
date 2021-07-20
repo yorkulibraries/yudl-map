@@ -25,7 +25,7 @@ This field is required, and there can only be one value.
 
 # Alternative Title
 
-This field is optional, and there can be mulitple values. If there is no _alternative title_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _alternative title_, leave it blank.
 
 ## General Information
 
@@ -77,7 +77,7 @@ This field is not required, and there can be multiple values. If the _place publ
 
 # Description
 
-This field is optional, and there can be mulitple values. If there is no _description_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _description_, leave it blank.
 
 ## General Information
  
@@ -98,7 +98,7 @@ This field is optional, and there can be mulitple values. If there is no _descri
 
 # Note
 
-This field is optional, and there can be mulitple values. If there is no _note_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _note_, leave it blank.
 
 ## General Information
 
@@ -131,7 +131,7 @@ This field is optional, and there can be mulitple values. If there is no _note_,
 
 ## Date
 
-This field is optional, and there can be mulitple values. If there is no _date_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _date_, leave it blank.
 
 ### General Information
 
@@ -142,7 +142,7 @@ This field is optional, and there can be mulitple values. If there is no _date_,
 
 ## Date (issued)
 
-This field is optional, and there can be mulitple values. If there is no _date issued_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _date issued_, leave it blank.
 
 ### General Information
 
@@ -152,7 +152,7 @@ This field is optional, and there can be mulitple values. If there is no _date i
 
 ## Date (created)
 
-This field is optional, and there can be mulitple values. If there is no _date created_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _date created_, leave it blank.
 
 ### General Information
 
@@ -162,7 +162,7 @@ This field is optional, and there can be mulitple values. If there is no _date c
 
 ## Date (modified)
 
-This field is optional, and there can be mulitple values. If there is no _date modified_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _date modified_, leave it blank.
 
 ### General Information
 
@@ -393,36 +393,32 @@ This field is not required, and there can be only one value. If the _hdl_ is unk
 
 # Subjects
 
-## Topic
-
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
-
 ### General Information
 
 * Subject headings and subject keywords should describe what the item is 'about' and be useful forfinding the item.
 * Subjects from controlled vocabularies should be formatted properly.
 * Individuals can be included as subjects.
+* Keywords should be lowercase and plural.
 
-## Examples
+## Topic
 
+This field is optional, and there can be multiple values. If there is no _subject_, leave it blank.
+
+## Name
+
+This field is optional, and there can be multiple values. If there is no _subject_, leave it blank.
 
 ## Temporal
 
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
-
-### General Information
+This field is optional, and there can be multiple values. If there is no _subject_, leave it blank.
 
 ## Geographic
 
-This field is optional, and there can be mulitple values. If there is no _subject_, leave it blank.
+This field is optional, and there can be multiple values. If there is no _subject_, leave it blank.
 
 ## Keyword
 
-This field is optional, and there can be mulitple values. If there is no _keyword_, leave it blank.
-
-### General Information
-
-* Keywords should be lowercase and plural (except for proper names)
+This field is optional, and there can be multiple values. If there is no _keyword_, leave it blank.
 
 # Geographic Information
 
