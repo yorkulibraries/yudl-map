@@ -300,21 +300,29 @@ This field is not required, and there can be multiple values. If there are no _e
 
 # Relation
 
-This field is not required, and there can be multiple values. If the object does not have an explicit _relation_ other objects, leave the field blank.
+This field is not required, and there can be multiple values. If the object does not have an explicit _relation_ to other objects, leave the field blank.
 
 ## General Information
 
-* Enter a _nid_ (node identifier) each object this object has a _relation_ to
+* Enter information about known relationships in the records for both items
+* It is not necessary to do research to find related resources
+* If the relationship is unclear, uncertain, or otherwise questionable, the information may be entered into a display note or non-display note instead
 
 ## Examples
 
+| | |
+|-|-|
+| Monograph | Selections. 1771 |
+| Series | 0709-227X |
+
 # Part of
 
-This field is not required, and there can be multiple values. If the object is not _part of_ other objects, leave the field blank.
+This field is not required, and there can be only one value. If the object is not _part of_ other objects, leave the field blank.
 
 ## General Information
 
 * Enter a _nid_ (node identifier) each object this object is _part of_
+* For Toronto Telegram negatives, the part of value is the node ID (NID) of the contact sheet.
 
 ## Examples
 
