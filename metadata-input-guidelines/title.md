@@ -1,10 +1,10 @@
 # Element Name
 
-[title](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/title)
-
+* [title](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/title)
+* [alternative title](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#http://purl.org/dc/terms/alternative)
 # Definition
 
-The name of a given object.
+The name of or alternate name of a given object.
 
 # Where can the title information be found?
 
@@ -20,9 +20,14 @@ The name of a given object.
 
 # How the title field work in the metadata form
 
-* Text area
-* Not repeatable
-* Required
+* Title
+  * Text area
+  * Not repeatable
+  * Required
+* Alternative Title
+  * Text area
+  * Not repeatable
+  * Not required
 
 ## How should the title be filled in?
 
