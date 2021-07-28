@@ -126,7 +126,8 @@ This field is optional, and there can be multiple values. If there is no _note_,
 | System details | <ul><li>System details: Must be used with computer; cannot be used with DVD player.</li></ul> |
 | Thesis | <ul><li>Thesis: Proefschrift -- Rijks-Universiteit, Groningen.</li></ul> |
 | Title | <ul><li>Title: Title based on content of image</li></ul> |
- 
+| Edition | <ul><li>Edition: 5th</li></ul> |
+
 # Dates
 
 ## Date
@@ -281,22 +282,6 @@ This field is not required, and there can be only one value. If the _physical lo
 | | |
 |-|-|
 | | 2007-054 / 025 (17) |
-
-# Edition
-
-This field is not required, and there can be multiple values. If there are no _editions_ of the object or the _edition_ is unknown, leave the field blank.
-
-## General Information
-
-* Enter the edition or version number as listed on the object
-
-## Examples
-
-| | |
-|-|-|
-| Monograph | 4th edition |
-| Report | 2021 edition |
-| Software | Version 3.2.1 |
 
 # Relation
 

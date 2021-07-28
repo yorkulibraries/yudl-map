@@ -43,6 +43,7 @@ For any item type, information that goes into the note field can come from any p
 | System details | <ul><li>System details: Must be used with computer; cannot be used with DVD player.</li></ul> |
 | Thesis | <ul><li>Thesis: Proefschrift -- Rijks-Universiteit, Groningen.</li></ul> |
 | Title | <ul><li>Title: Title based on content of image</li></ul> |
+| Edition | <ul><li>Edition: 5th</li></ul> |
 
 # Resources
 
