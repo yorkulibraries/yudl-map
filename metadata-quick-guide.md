@@ -315,9 +315,7 @@ This field is not required, and there can be only one value. If the object is no
 |-|-|
 | Telegram negative part of an assignment | 45321 |
 
-# Identifiers
-
-## Identifier
+# Identifier
 
 This field is required, and there can be multiple values.
 
@@ -328,60 +326,15 @@ This field is required, and there can be multiple values.
 
 ### Examples
 
-| | |
+| Identifier type | Identifier |
 |-|-|
-| ASC Number | ASC52071 |
-| ASC item number | 1999-008 / 083 (07) (4) |
-| Catalogue identifier | a2364844 |
-
-## DOI
-
-This field is not required, and there can be only one value. If the _doi_ is unknown or there is no _doi_, leave the field blank.
-
-### Examples
-
-| | |
-|-|-|
+| Local Identifier (ASC Number) | ASC52071 |
+| Local Identifier (ASC item number) | 1999-008 / 083 (07) (4) |
+| Local Identifier (Catalogue identifier) | a2364844 |
 | doi | 10.5683/SP/ZEL1Q6 |
-
-## LCCN
-
-This field is not required, and there can be only one value. If the _lccn_ is unknown or there is no _lccn_, leave the field blank.
-
-### Examples
-
-| | |
-|-|-|
 | LCCN | 0706984.01 |
-
-## ISSN
-
-This field is not required, and there can be only one value. If the _issn_ is unknown or there is no _issn_, leave the field blank.
-
-### Examples
-
-| | |
-|-|-|
 | ISSN | 0703-9255 |
-
-## OCLC number
-
-This field is not required, and there can be only one value. If the _OCLC number_ is unknown or there is no _OCLC number_, leave the field blank.
-
-### Examples
-
-| | |
-|-|-|
 | OCLC | ocm01506489 |
-
-## HDL
-
-This field is not required, and there can be only one value. If the _hdl_ is unknown or there is no _hdl_, leave the field blank.
-
-### Examples
-
-| | |
-|-|-|
 | HDL | http://hdl.handle.net/10315/21361 |
 
 # Subjects

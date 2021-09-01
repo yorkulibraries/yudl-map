@@ -16,41 +16,21 @@ An unambiguous reference to the object  within a given context, which can be a n
 
 # How the identifier fields work in the metadata form
 
-* Identifier
-  * Text field
-  * Repeatable
-  * Required
-* DOI
-  * Text field
-  * Not repeatable
-  * Not required
-* LCCN
-  * Text field
-  * Not repeatable
-  * Not required
-* ISSN
-  * Text field
-  * Not repeatable
-  * Not required
-* ISBN
-  * Text field
-  * Not repeatable
-  * Not required
-* OCLC
-  * Text field
-  * Not repeatable
-  * Not required
-* HDL
-  * Text field
-  * Not repeatable
-  * Not required
+* Complex field parts:
+  * Identifier Type
+    * Dropdown
+  * Identifier value
+    * Text field
+* Repeatable
+* Not required
 
 # How should the identifier be filled in?
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| ASC number | <ul><li>ASC 1234</li></ul> |
-| Catalogue record | <ul><li>TODO</li></ul> |
+| Local identifier (ASC number) | <ul><li>ASC 1234</li></ul> |
+| Local identifier (ASC item number) | <ul><li>1999-008 / 083 (07) (4)</li></ul> |
+| Local identifier (Catalogue record) | <ul><li>a2364844</li></ul> |
 | DOI | <ul><li>https://doi.org/10.1007/s42803-020-00029-6</li></ul> |
 | LCCN | <ul><li>16004111</li></ul> |
 | ISSN | <ul><li>1940-5758</li></ul> |
@@ -61,6 +41,8 @@ An unambiguous reference to the object  within a given context, which can be a n
 # Comments
 
 Identifiers provide information needed to retrieve a file from the storage system, to access a bitstream within a file, or to locate a physical object.
+
+If a Identifier Type is not available, contact the system administrators.
 
 # Resources
 
