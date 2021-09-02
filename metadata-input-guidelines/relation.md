@@ -27,12 +27,8 @@ Information about a related object that is related to the given object.
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| Part of    |          |
-| Toronto Telegram negatives | *Part of*: 1234 |
-| Relation   |          |
-| Include the title of the related material | |
-| Include a unique identifier or additional information if it is important to identify the item | |
-| Include the permalink to the record of the related item if it is available | |
+| Part of <ul><li>Toronto Telegram negatives</li></ul> | <ul><li>*Part of*: 1234</li></ul> |
+| Relation <ul><li>Include the title of the related material</li><li>Include a unique identifier or additional information if it is important to identify the item</li><li>Include the permalink to the record of the related item if it is available</li></ul> | |
  
 # Resources
 
