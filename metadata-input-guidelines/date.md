@@ -68,9 +68,9 @@ Dates associated with events in the life cycle of the object.
 
 | Guidelines | Form(s) | Examples |
 | ---------- | ------- | -------- |
-| <ul><li>If a date is uncertain, a question mark can be used at the end of the date</li></ul> | <ul><li>YYYY-MM-DD?</li></ul> | <ul><li>1999-01-10?</li></ul> |
-| <ul><li>If a date is approximate (e.g., "circa" dates), a tilde can be used at the end of the date</li></ul> | <ul><li>YYYY-MM-DD~</li></ul> | <ul><li>1999-01-10~</li></ul> |
-| <ul><li>If a date is uncertain **and** approximate, a percentage sign can be used at the end of the date</li></ul> | <ul><li>YYYY-MM-DD%</li></ul> | <ul><li>1999-01-10%</li></ul> |
+| <ul><li>If a date is uncertain, a question mark can be used at the end of the date</li></ul> | <ul><li>YYYY?</li><li>YYYY-MM?</li><li>YYYY-MM-DD?</li></ul> | <ul><li>1999?</li><li>1999-01?</li><li>1999-01-10?</li></ul> |
+| <ul><li>If a date is approximate (e.g., "circa" dates), a tilde can be used at the end of the date</li></ul> | <ul><li>YYYY~</li><li>YYYY-MM~</li><li>YYYY-MM-DD~</li></ul> | <ul><li>1999~</li><li>1999-01~</li><li>1999-01-10~</li></ul> |
+| <ul><li>If a date is uncertain **and** approximate, a percentage sign can be used at the end of the date</li></ul> | <ul><li>YYYY%</li><li>YYYY-MM%</li><li>YYYY-MM-DD%</li></ul> | <ul><li>1999%</li><li>1999-01%</li><li>1999-01-10%</li></ul> |
 
 # Comments
 
