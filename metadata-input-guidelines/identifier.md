@@ -28,7 +28,7 @@ An unambiguous reference to the object  within a given context, which can be a n
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| Local identifier (ASC number) | <ul><li>ASC 1234</li></ul> |
+| Local identifier (ASC number) | <ul><li>ASC12345</li></ul> |
 | Local identifier (ASC item number) | <ul><li>1999-008 / 083 (07) (4)</li></ul> |
 | Local identifier (Catalogue record) | <ul><li>a2364844</li></ul> |
 | DOI | <ul><li>https://doi.org/10.1007/s42803-020-00029-6</li></ul> |
