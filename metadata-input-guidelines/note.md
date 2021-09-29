@@ -6,6 +6,12 @@
 
 A general note, for any purpose which can be a "catch-all" field for additional information that does not fit well into any other available fields.
 
+# How the note field work in the metadata form
+
+* Text area
+* Repeatable
+* Not required
+
 # Where can note information be found?
 
 For any item type, information that goes into the note field can come from any part of the item including:
@@ -16,12 +22,6 @@ For any item type, information that goes into the note field can come from any p
 * handwritten notes on pages or images
 * examining or reading the text of the item (e.g., inconsistent page numbers)
 * supplementary or accompanying information
-
-# How the note field work in the metadata form
-
-* Text area
-* Repeatable
-* Not required
 
 # How should the identifier be filled in?
 

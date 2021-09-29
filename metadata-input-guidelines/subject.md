@@ -11,20 +11,6 @@ Subject
 
 The subjects or topics that succinctly describe the content of the object.
 
-# Where can the subject information be found?
-
-In many cases, the item must be read/examined to find subjects and keywords but they may come from:
-
-| Item Type | Information Sources |
-| --------- | ------------------- |
-| Text | <ul><li>titles</li><li>abstract</li><li>table of contents</li><li>section/chapter headings</li><li>text</li><li>catalogue record</li></ul> |
-| Images | <ul><li>bottom or back of a photograph</li><li>visible items (people, surroundings, objects, etc.)</li><li>envelope, slip cover, or case</li><li>supplementary or accompanying information</li></ul> |
-| Maps | <ul><li>caption or legend</li><li>notes around the outside or back of map</li><li>geographic area and time period of the map</li><li>catalogue record</li></ul> |
-| Music scores | <ul><li>title page</li><li>table of contents</li><li>lyrics</li></ul> |
-| Videos | <ul><li>label on disc</li><li>container cover</li><li>catalogue record</li></ul> |
-| Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li><li>catalogue record</li></ul> |
-| Computer files | <ul><li>title page/screen</li><li>statement in a header/footer</li><li><li>container information</li><li>catalogue record</li></ul> |
-
 # How the Creators and Contributors field works in the metadata form
 
 * Topic
@@ -47,6 +33,20 @@ In many cases, the item must be read/examined to find subjects and keywords but 
   * Autocomplete text field
   * Repeatable
   * Not required
+
+# Where can the subject information be found?
+
+In many cases, the item must be read/examined to find subjects and keywords but they may come from:
+
+| Item Type | Information Sources |
+| --------- | ------------------- |
+| Text | <ul><li>titles</li><li>abstract</li><li>table of contents</li><li>section/chapter headings</li><li>text</li><li>catalogue record</li></ul> |
+| Images | <ul><li>bottom or back of a photograph</li><li>visible items (people, surroundings, objects, etc.)</li><li>envelope, slip cover, or case</li><li>supplementary or accompanying information</li></ul> |
+| Maps | <ul><li>caption or legend</li><li>notes around the outside or back of map</li><li>geographic area and time period of the map</li><li>catalogue record</li></ul> |
+| Music scores | <ul><li>title page</li><li>table of contents</li><li>lyrics</li></ul> |
+| Videos | <ul><li>label on disc</li><li>container cover</li><li>catalogue record</li></ul> |
+| Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li><li>catalogue record</li></ul> |
+| Computer files | <ul><li>title page/screen</li><li>statement in a header/footer</li><li><li>container information</li><li>catalogue record</li></ul> |
 
 # How should the subject be filled in?
 

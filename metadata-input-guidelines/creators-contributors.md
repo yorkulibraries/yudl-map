@@ -6,6 +6,16 @@ Linked agent (Creators and Contributors)
 
 Persons, agencies, or organizations primarily responsible for creating or contributing the intellectual content of the object.
 
+# How the Creators and Contributors field works in the metadata form
+
+* Complex field parts:
+  * Relationship Type
+    * Dropdown
+  * Creator
+    * Autocomplete text field
+* Repeatable
+* Not required
+
 # Where can the creator information be found?
 
 Creators include any person, company, organization that was centrally involved in creating the item and may be found on:
@@ -19,16 +29,6 @@ Creators include any person, company, organization that was centrally involved i
 | Videos | <ul><li>title screen(s)</li><li>label on disc</li><li>container cover</li><li>catalogue record</li></ul> |
 | Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li><li>catalogue record</li></ul> |
 | Computer files | <ul><li>title page/screen</li><li>statement in a header/footer</li><li><li>container information</li><li>catalogue record</li></ul> |
-
-# How the Creators and Contributors field works in the metadata form
-
-* Complex field parts:
-  * Relationship Type
-    * Dropdown
-  * Creator
-    * Autocomplete text field
-* Repeatable
-* Not required
 
 # How should the creator be filled in?
 

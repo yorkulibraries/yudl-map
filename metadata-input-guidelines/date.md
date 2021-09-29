@@ -9,18 +9,6 @@
 
 Dates associated with events in the life cycle of the object.
 
-# Where can identifier information be found?
-
-| Item Type | Information Sources |
-| --------- | ------------------- |
-| Text | <ul><li>title page</li><li>copyright page</li><li>cover or inside coverpage</li><li>a catalogue record</li></ul> |
-| Images | <ul><li>bottom or back of photograph</li><li>a time-stamp</li><li>envelope, slip cover, or case</li><li>supplementary or accompanying information</li></ul> |
-| Maps | <ul><li>title, caption, or legend</li><li>notes around the outside of the map</li><li>on the back of the map</li></ul> |
-| Music scores | <ul><li>top of page</li><li>title page</li><li>table of contents</li><li>cover or inside cover</li></ul> |
-| Videos | <ul><li>title of credit screen(s)</li><li>label on disc/cassette</li><li>container cover</li></ul> |
-| Sound files | <ul><li>information on disc/cassette</li><li>container information</li></ul> |
-| Computer files | <ul><li>title page/screen</li><li>statement in header/footer</li></ul> |
-
 # How the date fields works in the metadata form
 
 * Date
@@ -39,6 +27,18 @@ Dates associated with events in the life cycle of the object.
   * Text field  (with EDTF validation)
   * Repeatable
   * Not required
+
+# Where can identifier information be found?
+
+| Item Type | Information Sources |
+| --------- | ------------------- |
+| Text | <ul><li>title page</li><li>copyright page</li><li>cover or inside coverpage</li><li>a catalogue record</li></ul> |
+| Images | <ul><li>bottom or back of photograph</li><li>a time-stamp</li><li>envelope, slip cover, or case</li><li>supplementary or accompanying information</li></ul> |
+| Maps | <ul><li>title, caption, or legend</li><li>notes around the outside of the map</li><li>on the back of the map</li></ul> |
+| Music scores | <ul><li>top of page</li><li>title page</li><li>table of contents</li><li>cover or inside cover</li></ul> |
+| Videos | <ul><li>title of credit screen(s)</li><li>label on disc/cassette</li><li>container cover</li></ul> |
+| Sound files | <ul><li>information on disc/cassette</li><li>container information</li></ul> |
+| Computer files | <ul><li>title page/screen</li><li>statement in header/footer</li></ul> |
 
 # How should the identifier be filled in?
 

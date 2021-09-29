@@ -6,6 +6,12 @@
 
 Description of the content attributes of the object or physical attributes of the object.
 
+# How the description field work in the metadata form
+
+* Text area
+* Not Repeatable
+* Not required
+
 # Where can description information be found?
 
 For any item type, information that goes into the description field can come from any part of the item including:
@@ -16,12 +22,6 @@ For any item type, information that goes into the description field can come fro
 * handwritten notes on pages or images
 * examining or reading the text of the item (e.g., inconsistent page numbers)
 * supplementary or accompanying information
-
-# How the description field work in the metadata form
-
-* Text area
-* Not Repeatable
-* Not required
 
 # How should the description be filled in?
 

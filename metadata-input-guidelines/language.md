@@ -6,6 +6,12 @@
 
 The language(s) of the resource.
 
+# How the language field works in the metadata form
+
+* Autocomplete field
+* Repeatable
+* Required
+
 # Where can the language information be found?
 
 Language can be determined by examining the item:
@@ -19,12 +25,6 @@ Language can be determined by examining the item:
 | Videos | <ul><li>title screen(s)</li><li>label on disc</li><li>container cover</li></ul> |
 | Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li></ul> |
 | Computer files | <ul><li>title page/screen</li><li>text</li></ul> |
-
-# How the language field works in the metadata form
-
-* Autocomplete field
-* Repeatable
-* Required
 
 # How should the language be filled in?
 

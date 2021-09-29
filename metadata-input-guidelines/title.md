@@ -6,6 +6,17 @@
 
 The name of or alternate name of a given object.
 
+# How the title field work in the metadata form
+
+* Title
+  * Text area
+  * Not repeatable
+  * Required
+* Alternative Title
+  * Text area
+  * Not repeatable
+  * Not required
+
 # Where can the title information be found?
 
 | Item Type | Information Sources |
@@ -17,17 +28,6 @@ The name of or alternate name of a given object.
 | Videos | <ul><li>title screen(s)</li><li>label on disc</li><li>container cover</li></ul> |
 | Sound files | <ul><li>title on disc/cassette</li><li>container information</li></ul> |
 | Computer files | <ul><li>title page/screen</li><li>container information</li><li>headers</li></ul> |
-
-# How the title field work in the metadata form
-
-* Title
-  * Text area
-  * Not repeatable
-  * Required
-* Alternative Title
-  * Text area
-  * Not repeatable
-  * Not required
 
 ## How should the title be filled in?
 
