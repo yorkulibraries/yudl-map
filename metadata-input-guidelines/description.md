@@ -25,10 +25,10 @@ For any item type, information that goes into the description field can come fro
 
 # How should the description be filled in?
 
-* Describe the subject matter of the item
+* Describe the content and context of the item
 * Use complete sentences with proper grammar and punctuation
 * Avoid any commentary on or interpretation of the item being described
-* It is not necessary to research the item unless it is believed that outside information is required to understand or locate the item.
+* It should not be necessary to research the item unless it is believed that outside information is required to understand or locate the item.
 
 | Guidelines | Examples |
 | ---------- | -------- |
