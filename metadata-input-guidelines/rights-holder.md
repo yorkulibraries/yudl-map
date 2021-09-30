@@ -6,7 +6,7 @@
 
 Persons, agencies, or organizations owning or managing rights over the object.
 
-# How the genre field work in the metadata form
+# How the rights holder field work in the metadata form
 
 * Autocomplete text field
 * Repeatable
