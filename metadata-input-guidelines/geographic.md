@@ -71,8 +71,12 @@ The spatial topic of the object, spatial applicability of the object, or jurisdi
   * Editors should always choose a value from the list if it is available.
   * If a value is not available, contact the system administrators. 
 * For coordinates:
-  * Enter a latitude in either decimal or sexagesimal format.
-  * Enter a longitde in either decimal or sexagesimal format.
+  * Enter a latitude in decimal format
+  * Enter a longitude in decimal format
+  * To convert coordinates expressed in Degrees, Minutes, Seconds (DMS or sexagesimal) to Decimal Degrees (DD) use [this]( https://latlongdata.com/lat-long-converter/) resource.
+  * To convert coordinates in Degrees, Decimal Minutes to Decimal Degrees, use [this](https://latlongdata.com/lat-long-converter/) resource.
+  * For latitude coordinates in the southern hemisphere, place a negative symbol before the coordinate.
+  * For longitude coordinates in the western hemisphere, place a negative symbol before the coordinate.
 
 # Resources
 
