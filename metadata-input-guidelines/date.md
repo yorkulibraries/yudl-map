@@ -9,12 +9,12 @@
 
 Dates associated with events in the life cycle of the object.
 
-# How the date fields works in the metadata form
+# How the date fields work in the metadata form
 
 * Date
   * Text field (with EDTF validation)
   * Repeatable
-  * Note Required
+  * Not Required
 * Date created
   * Text field (with EDTF validation)
   * Repeatable
@@ -54,7 +54,7 @@ Dates associated with events in the life cycle of the object.
 
 | Guidelines | Form(s) | Examples |
 | ---------- | ------- | -------- |
-| <ul><li>Write dates Year-Month-Day, separating the sections with a single hyphen</li></ul> | <ul><li>YYY-MM-DD</li></ul> | <ul><li>1989-06-12</li></ul> |
+| <ul><li>Write dates Year-Month-Day, separating the sections with a single hyphen</li></ul> | <ul><li>YYYY-MM-DD</li></ul> | <ul><li>1989-06-12</li></ul> |
 | <ul><li>Include partial dates only if the year or only the month and year are known</li></ul> | <ul><li>YYYY</li><li>YYYY-MM</li></ul> | <ul><li>1992</li><li>1992-10</li></ul> |
 
 ### Date Ranges
@@ -72,11 +72,9 @@ Dates associated with events in the life cycle of the object.
 | <ul><li>If a date is approximate (e.g., "circa" dates), a tilde can be used at the end of the date</li></ul> | <ul><li>YYYY~</li><li>YYYY-MM~</li><li>YYYY-MM-DD~</li></ul> | <ul><li>1999~</li><li>1999-01~</li><li>1999-01-10~</li></ul> |
 | <ul><li>If a date is uncertain **and** approximate, a percentage sign can be used at the end of the date</li></ul> | <ul><li>YYYY%</li><li>YYYY-MM%</li><li>YYYY-MM-DD%</li></ul> | <ul><li>1999%</li><li>1999-01%</li><li>1999-01-10%</li></ul> |
 
-# Comments
-
-
 # Resources
 
+* [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/)
 * Quick-Start Metadata Guide
 * Input Guidelines for Descriptive Metadata
 * Metadata Home
