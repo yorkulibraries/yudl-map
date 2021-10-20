@@ -4,7 +4,7 @@
 
 # Definition
 
-The carrier or media category of an object.
+Physical form refers to the carrier or media category of an object. Not to be confused with the Genre field.
 
 # How the physical form field work in the metadata form
 
@@ -17,12 +17,13 @@ The carrier or media category of an object.
 * Consult the categories in the Library of Congress "[Specific Material Form Term List](https://www.loc.gov/standards/valuelist/marcsmd.html)."
 * Consider whether it fits one of these scenarios:
   * Page images of textual items should be entered as "Text" not "Image"
-  * A series of negatives should be entered as "nonprojected graphic, photonegative"
-  * A series of photo prints should be entered as "nonprojected graphic, photoprint"
+  * Negatives should be entered as "nonprojected graphic, photonegative"
+  * Photo prints should be entered as "nonprojected graphic, photoprint"
 * A page with both text and images should be entered based on which portion is most dominant or important, i.e.,
   * Does it seem like "text" with accompanying images(s) – e.g., photos or illustrations in a letter or printed page?
   * Does it seem like "photograph(s)" or "illustrations" with inscriptions and accompanying text?
 * Consider whether someone would expect to find the item if they limit their search to one particular type.
+* Consider if the original format/carrier medium is in the custody and stewardship of the Libraries, or if the Libraries only receive an electronic surrogate or an electronic file.
 
 # Resources
 
