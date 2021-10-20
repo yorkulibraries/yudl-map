@@ -12,7 +12,7 @@
 
 # Definition
 
-The spatial topic of the object, spatial applicability of the object, or jurisdiction under which the objecti is relevant.
+The spatial aboutness or topic of the object, spatial applicability of the object, or jurisdiction under which the object is relevant.
 
 # How the geographic information fields work in the metadata form
 
@@ -57,19 +57,20 @@ The spatial topic of the object, spatial applicability of the object, or jurisdi
 
 | Item Type | Information Sources |
 | --------- | ------------------- |
-| Text | <ul><li>the title page</li><li>a documentation page</li><li>the cover</li><li>a monogrpah's catalogue record</li></ul> |
+| Text | <ul><li>the title page</li><li>a documentation page</li><li>the cover</li><li>a monograph's catalogue record</li></ul> |
 | Images | <ul><li>bottom or back of a photograph</li><li>envelope, slip cover, or case</li><li>supplementary or accompanying information</li></ul> |
-| Maps | <ul><li>caption or legend</li><li>notes around the outside or back of map</li><li>catalogue record</li></ul> |
+| Maps | <ul><li>title caption</li><li>legend</li><li>notes around the outside or back of map</li><li>catalogue record</li></ul> |
 | Music scores | <ul><li>top of page</li><li>title page</li><li>table of contents</li></ul> |
-| Videos | <ul><li>title screen(s)</li><li>label on disc</li><li>container cover</li><li>catalogue record</li></ul> |
-| Sound files | <ul><li>spoken/sung words</li><li>information on disc/cassette</li><li>container information</li><li>catalogue record</li></ul> |
-| Computer files | <ul><li>title page/screen</li><li>statement in a header/footer</li><li><li>container information</li><li>catalogue record</li></ul> 
+| Videos | <ul><li>title screen(s)</li><li>credit reel</li><li>label on carrier (disc/tape)</li><li>container information, slip case, cover</li><li>catalogue record and/or finding aid</li></ul> |
+| Sound files | <ul><li>spoken/sung words</li><li>information on carrier (disc/tape)</li><li>container information, slip case, cover</li><li>catalogue record and/or finding aid</li></ul> |
+| Computer files | <ul><li>title page/screen</li><li>statement in a header/footer</li><li>container information, slip case, cover</li><li>catalogue record and/or finding aid</li></ul> |
 
 # How should the geographic information fields be filled in?
 
 * Each field is tied to a related vocabulary, and will autocomplete based on values in it.
   * Editors should always choose a value from the list if it is available.
   * If a value is not available, contact the system administrators. 
+* Do not use the place of publication of the object, unless it is relevant to the aboutness of the object.
 * For coordinates:
   * Enter a latitude in decimal format
   * Enter a longitude in decimal format
