@@ -18,9 +18,11 @@ Persons, agencies, or organizations owning or managing rights over the object.
   * Editors should always choose a value from the list if it is available.
   * If a value is not available, contact the system administrators.
 * Any photographs taken by Toronto Telegram staff photographers between 1962-1971 are possibly under copyright by York University. The term of copyright for images for this category is determined by the life of the photographer plus 50 years. Therefore, the photographs of Albert Van (1881-1964) that he took as a staff photographer for the Telegram are now in the public domain.
+* In cases where the copyright is owned by the university, indicate York University as the rights holder.
 
 # Resources
 
 * Quick-Start Metadata Guide
 * Input Guidelines for Descriptive Metadata
 * Metadata Home
+* [Our Digital World's Copyright General Rules](https://ourdigitalworld.net/resources/copyright/copyright-general-rules/)
