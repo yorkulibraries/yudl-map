@@ -22,28 +22,30 @@ For any item type, information that goes into the note field can come from any p
 * handwritten notes on pages or images
 * examining or reading the text of the item (e.g., inconsistent page numbers)
 * supplementary or accompanying information
+* additional knowledge, provenance, or context contributed by processing archivists, subject experts, community contributors, donors, and/or other researchers and scholars
 
 # How should the identifier be filled in?
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| General note(s): <ul><li>Put information in quotations when it is taken directly from the source</li></ul> | <ul><li>"Supplied as a public service by The Wingham Lions Club. Survey & mapping by the municipal service co., Oakville Ontario."</li></ul> |
+| General note(s): <ul><li>Put information in quotations when it is taken directly from the source</li></ul> | <ul><li>"Supplied as a public service by The Wingham Lions Club. Survey & mapping by the municipal service co., Oakville Ontario."</li><li>Relief shown pictorially.</li><li>Shows degrees of latitude and longitude, sea banks, boundaries of states, waterways, and native American settlements.</li><li>Includes historical notes.</li></ul> |
 | Acquisition | <ul><li>Acquisition: AIDS Committee of Toronto, Summer, 2010. Donation.</li></ul> |
-| Physical form | <ul><li>Physical form: Scale 1 number = 20 feet.</li></ul> |
 | Bibliography | <ul><li>Bibliography: Includes bibliographical references and index.</li></ul> |
 | Content | <ul><li>Content: Shows buildings built since 1960, under construction or imminent, and projected.</li></ul> |
-| Sequence | <ul><li>Sequence: The original document is missing pages 7 and 22.</li></ul> |
+| Edition | <ul><li>Edition: 5th</li></ul> |
 | Funding | <ul><li>Funding: Material digitized as part of an Academic Innovation Fund (AIF), awarded in 2018. For more information see: http://avptl.info.yorku.ca/academic-innovation-fund</li></ul> |
 | Language | <ul><li>Language: this report is printed in two parts, the first in English and the second in the French.</li></ul> |
 | Numbering | <ul><li>Numbering: 2 volumes a year.</li></ul> |
 | Performers | <ul><li>Host: Rae Dawn Chong.</li></ul> |
+| Physical form | <ul><li>Physical form: Scale 1 number = 20 feet.</li></ul> |
 | Publication | <ul><li>Publication: [New York] : Showset Productions, ©2016</li></ul> |
 | Reproduction | <ul><li>Reproduction: Photocopy. Ann Arbor, Mich. University Microfilms, 1982.</li></ul> |
+| Scale | <ul><li>Scale: approximately 1:3,700,000.</li><li>Scale: [ca. 1:6 000 000]</li><li>Scale: 69.3 English Miles=1 Degree</li><li>Scale: 1:1,584,000</li><li>Scale: not given</li></ul>|
+| Sequence | <ul><li>Sequence: The original document is missing pages 7 and 22.</li></ul> |
 | Statement of responsibility | <ul><li>Statement of responsibility: With a general index and a memoir by James Elliot cabot.</li></ul> |
 | System details | <ul><li>System details: Must be used with computer; cannot be used with DVD player.</li></ul> |
 | Thesis | <ul><li>Thesis: Proefschrift -- Rijks-Universiteit, Groningen.</li></ul> |
 | Title | <ul><li>Title: Title based on content of image</li></ul> |
-| Edition | <ul><li>Edition: 5th</li></ul> |
 
 # Resources
 
