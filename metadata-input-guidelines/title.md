@@ -14,7 +14,7 @@ The name of or alternate name of a given object.
   * Required
 * Alternative Title
   * Text area
-  * Not repeatable
+  * Repeatable
   * Not required
 
 # Where can the title information be found?
