@@ -4,6 +4,26 @@
 
 New subject terms can be added by contacting the system administrator. Terms can be added as required, or in batches.
 
+### Subject Term Sources
+
+* [Art & Architecture Thesaurus](https://www.getty.edu/research/tools/vocabularies/aat/)
+* [FAST (Faceted Application of Subject Terminology)](https://www.oclc.org/research/areas/data-science/fast.html)
+* [Genre Terms: A Thesaurus for Use in Rare Book and Special Collections Cataloguing](https://rbms.info/vocabularies/genre/alphabetical_list.htm)
+* [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/)
+* [Library of Congress Children's Subject Headings](https://id.loc.gov/authorities/childrensSubjects.html) 
+* [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html)
+* [Library of Congress Temporal Terms](https://www.loc.gov/standards/sourcelist/temporal.html)
+* [National Agricultural Library subject headings](https://agclass.nal.usda.gov/)
+* [Répertoire de vedettes-matière](https://www5.bibl.ulaval.ca/la-bibliotheque/repertoire-de-vedettes-matiere-rvm)
+* [TGM II, Genre and physical characteristic terms](https://www.loc.gov/rr/print/tgm2/)
+* [Thesaurus for Graphic Materials](https://www.loc.gov/pictures/collection/tgm/)
+* [Government of Canada Core Subject Thesaurus](https://canada.multites.net/cst/index.htm)
+* [Canadian Subject Headings (CSH)](https://www.bac-lac.gc.ca/eng/services/canadian-subject-headings/Pages/canadian-subject-headings.aspx)
+* [Library of Congress Subject Headings (LCSH)](https://id.loc.gov/authorities/subjects.html)
+* [Manitoba Archival Information Network Database (MAIN Database)](https://doi.org/10.5203/ss_ama.main_bon.chr.2015.1)
+* [Medical Subject Headings(MeSH)](https://meshb.nlm.nih.gov/)
+* [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+
 ## Topics
 
 | Guideline | Example |
