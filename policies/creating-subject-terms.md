@@ -13,6 +13,7 @@ New subject terms can be added by contacting the system administrator. Terms can
 * [Library of Congress Children's Subject Headings](https://id.loc.gov/authorities/childrensSubjects.html) 
 * [Library of Congress Genre/Form Terms](https://id.loc.gov/authorities/genreForms.html)
 * [Library of Congress Temporal Terms](https://www.loc.gov/standards/sourcelist/temporal.html)
+* Local authority creation
 * [National Agricultural Library subject headings](https://agclass.nal.usda.gov/)
 * [Répertoire de vedettes-matière](https://www5.bibl.ulaval.ca/la-bibliotheque/repertoire-de-vedettes-matiere-rvm)
 * [TGM II, Genre and physical characteristic terms](https://www.loc.gov/rr/print/tgm2/)
@@ -63,8 +64,9 @@ All names added as subject keywords should follow the same format:
 
 | Guideline | Example |
 | --------- | ------- |
-| If an object has a strong connection to a particular temporal period but all other metadata fields lack specify       | [Pontiac's Conspiracy, 1763-1765](https://digital.library.yorku.ca/islandora/object/yul:754409)  |
-    
+| If an object has a strong connection to a particular temporal period but all other metadata fields lack specify | [Pontiac's Conspiracy, 1763-1765](https://digital.library.yorku.ca/islandora/object/yul:754409)  |
+| If an object has a multiple locations in time include years active, and city and province if known | The Isaacs Gallery, 1956-1961 (Toronto, Ont.) |
+
 ## Keywords
 
 | Guideline | Example |
