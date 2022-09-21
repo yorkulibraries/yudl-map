@@ -9,6 +9,7 @@ New Creator or Contributor terms can be added by contacting the systems administ
 * [Archives Association of Ontario](https://www.archeion.ca/actor/browse)
 * [York University Libraries' Clara Thomas Archives & Special Collections](https://atom.library.yorku.ca/index.php/actor/browse)
 * [Canadian Subject Headings](https://www.bac-lac.gc.ca/eng/services/canadian-subject-headings/Pages/canadian-subject-headings.aspx?=undefined&wbdisable=true)
+* [Discogs](https://www.discogs.com)
 * [Library of Congress Children's Subject Headings](https://id.loc.gov/authorities/childrensSubjects.html)
 * [LC Name Authority File](https://id.loc.gov/authorities/names.html)
 * [NACO Authority File](https://www.loc.gov/aba/pcc/naco/nacopara.html)
