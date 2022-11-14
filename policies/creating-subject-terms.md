@@ -47,7 +47,7 @@ All names added as subject keywords should follow the same format:
 | Use any known part of the name including initials if the full name is unknown | <ul><li>Ware, K.</li></ul> |
 | Include additional names as middle names | |
 | Names that are hyphenated or have multiple parts are all considered "last names" | <ul><li>Sainte-Marie, Buffy</li></ul> |
-| Use appropriate abbreviations: include known titles before the first name, include known suffixes at the end of the name after a second comma | <ul><li>Cumberbatch, B. Lieutenant</li><li>Cumberbatch, B. Lady</li></ul>|
+| Use appropriate abbreviations: include known titles after the first name, include known suffixes at the end of the name after a second comma | <ul><li>Cumberbatch, B., Lieutenant</li><li>Cumberbatch, B., Lady</li></ul>|
 | Nicknames can be included in parentheses, unless their nickname is included in authority listings like VIAF. | <ul><li>Vig, Butch </li></ul> |
 | If a person is identified with both a married name and a previous name, use a separate named person entry for each surname | <ul><li>Weldon, Lois</li><li>Marshall, Lois</li></ul>|
 | If a person performs or whose public life is connected with a particular name or pseudonym, use that name|<ul><li>Lady Gaga **OR** Gaga, Lady</li><li>**NOT** Germanotta, Stefani Joanne</li><li>Peck, Orville</li><li>K'naan</li><li>**NOT** Warsame, Keinan Abdi</li>|
