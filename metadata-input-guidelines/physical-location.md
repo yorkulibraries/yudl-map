@@ -16,7 +16,7 @@ Location in the archives, branch, or special collections where the object is she
 
 | Guidelines | Examples |
 | ---------- | -------- |
-| ASC materials: <ul><li>The number of the box and file that contains the object.</li><li>Note that there is a space before and after the "/".</li></ul> | <ul><li>2007-054 / 025 (17)</li><li>1998-037 / 001 (06)</li></ul> |
+| ASC materials: <ul><li>The number of the box and file that contains the object.</li></ul> | <ul><li>2007-054/025(17)</li><li>1998-037/001(06)</li></ul> |
 | Circulating and non-circulating rare books:<ul><li>Call number</li><li>MMS ID in ALMA</li></ul> | <ul><li>VLC 561</li><li>991006127519705164</li></ul> |
 | Cartographic materials: <ul><li>Include the location and the call number</li></ul> | <ul><li>Scott Maps G 3524 T6 G43 60 1963</li></ul> |
 
