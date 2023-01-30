@@ -300,21 +300,6 @@ This field is not required, and there can be multiple values. If the object does
 | Monograph | Selections. 1771 |
 | Series | 0709-227X |
 
-# Part of
-
-This field is not required, and there can be only one value. If the object is not _part of_ other objects, leave the field blank.
-
-## General Information
-
-* Enter a _nid_ (node identifier) each object this object is _part of_
-* For Toronto Telegram negatives, the part of value is the node ID (NID) of the contact sheet.
-
-## Examples
-
-| | |
-|-|-|
-| Telegram negative part of an assignment | 45321 |
-
 # Identifier
 
 This field is required, and there can be multiple values.
