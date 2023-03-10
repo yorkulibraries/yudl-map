@@ -314,7 +314,7 @@ This field is required, and there can be multiple values.
 | Identifier type | Identifier |
 |-|-|
 | Local Identifier (ASC Number) | ASC52071 |
-| Local Identifier (ASC item number) | 1999-008 / 083 (07) (4) |
+| Local Identifier (ASC item number) | 1999-008/083(07) |
 | Local Identifier (Catalogue identifier) | a2364844 |
 | doi | 10.5683/SP/ZEL1Q6 |
 | LCCN | 0706984.01 |
